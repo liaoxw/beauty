@@ -18,5 +18,7 @@
 
 ![](/assets/WeChat10565a235a8735e46f1fe2e0e18fd9be.png)商品单规格设置![](/assets/WeChat83b7bad8b7c84ea7a7c9d4c19fde73e1.png)商品多规格设置
 
-![](/assets/WeChatf1df90746a866ae573687376583cab10.png)![](/assets/WeChat2bfe006960dacb0f9332ef36cc88f4e4.png)
+![](/assets/WeChatf1df90746a866ae573687376583cab10.png)![](/assets/WeChat2bfe006960dacb0f9332ef36cc88f4e4.png)价格设定：
+
+![](/assets/WeChate987fb1e767272a3271c5d3d2a2565e3.png)
 
