@@ -22,3 +22,11 @@
 
 ![](/assets/WeChate987fb1e767272a3271c5d3d2a2565e3.png)
 
+关联小程序：
+
+商品如果要在显示再小程序上，必须关联相关【小程序】；
+
+![](/assets/WeChatb17d353c7cedf4ca9dc28d5e3b7fd5f1.png)
+
+
+
