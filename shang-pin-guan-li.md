@@ -26,7 +26,9 @@
 
 商品如果要在显示再小程序上，必须关联相关【小程序】；
 
-![](/assets/WeChatb17d353c7cedf4ca9dc28d5e3b7fd5f1.png)
+![](/assets/WeChatb17d353c7cedf4ca9dc28d5e3b7fd5f1.png)搜索商品：
+
+可搜索分类，按名称搜索，条码，款号等等
 
 
 
